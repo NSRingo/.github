@@ -1,4 +1,4 @@
-#  iRingo
+# [ iRingo](https://NSRingo.github.io/)
   * 解锁完整的Apple功能和集成服务
   * **Powered by [Chavy](https://github.com/chavyleung)‘s [BoxJs](https://chavyleung.gitbook.io/boxjs/)**
   * 有问题请至[讨论页面](https://github.com/orgs/NSRingo/discussions)反馈
@@ -40,6 +40,12 @@
 | 推荐 | 推荐 | 推荐 | 兼容 | 兼容 | 部分兼容 |
 | [nssurge.com](https://nssurge.com/) | [nsloon.app](https://nsloon.app/) | [stash.ws](https://stash.ws/) | [egernapp.com](https://egernapp.com/) | N/A | N/A |
 
+## 官方网站
+[NSRingo.github.io](https://NSRingo.github.io/)
+
+<details>
+<summary>Wiki 链接</summary>
+
 ## iOS 18、macOS 15、watchOS 11 及以上
 | [🌤<br>天气服务](../../../../WeatherKit/wiki) | [📍<br>定位服务](../../../../GeoServices/wiki) | [🗺️<br>地图](../../../../GeoServices/wiki) | [🟥<br>Apple智能与Siri](../../../../Siri/wiki/🟥-Apple智能与Siri) | [📺<br>TV](../../../../TV/wiki) | [📰<br>News](../../../../News/wiki) | [✈<br>TestFlight](../../../../TestFlight/wiki) | [⌚️<br>WATCH](../../../../Watch/wiki) | [🧰<br>BoxJs](../../../../BoxJs/wiki) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -47,6 +53,7 @@
 ## iOS 17、macOS 14、watchOS 10 及以下
 | [~~🌤<br>天气~~](../../../../Weather/wiki) | [📍<br>定位服务](../../../../GeoServices/wiki) | [🗺️<br>地图](../../../../GeoServices/wiki) | [~~⭕<br>Siri与搜索~~](../../../../Siri/wiki/⭕-Siri与搜索) | [📺<br>TV](../../../../TV/wiki) | [📰<br>News](../../../../News/wiki) | [~~🌐<br>专用代理~~](../../../../PrivateRelay/wiki) | [✈<br>TestFlight](../../../../TestFlight/wiki) | [⌚️<br>WATCH](../../../../Watch/wiki) | [🧰<br>BoxJs](../../../../BoxJs/wiki) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+</details>
 
 ---
 # 鸣谢
