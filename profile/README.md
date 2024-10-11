@@ -35,10 +35,10 @@
   * 手机等竖屏设备可以👈左右👉划动下列表格查看更多模块
 
 ## 支持的 app
-| 🌊<br>Surge | 🎈<br>Loon | ☘️<br>Stash |🐿️<br>Egern | 🌀<br>Quantumult X | 🚀<br>Shadowrocket |
+| 🎈<br>Loon | 🌊<br>Surge | ☘️<br>Stash |🐿️<br>Egern | 🌀<br>Quantumult X | 🚀<br>Shadowrocket |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 推荐 | 推荐 | 推荐 | 兼容 | 兼容 | 部分兼容 |
-| [nssurge.com](https://nssurge.com/) | [nsloon.app](https://nsloon.app/) | [stash.ws](https://stash.ws/) | [egernapp.com](https://egernapp.com/) | N/A | N/A |
+| [nsloon.app](https://nsloon.app/) | [nssurge.com](https://nssurge.com/) | [stash.ws](https://stash.ws/) | [egernapp.com](https://egernapp.com/) | N/A | N/A |
 
 ## 官方网站
 [NSRingo.github.io](https://NSRingo.github.io/)
